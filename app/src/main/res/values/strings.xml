@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="tview"> Resultado </string>
+    <string name="editText1"> Ingrese aqui el primer numero </string>
+    <string name="editText2"> Ingrese aqui el segundo numero </string>
+    <string name="boton"> Calcular </string>
+    <string name="RBSuma"> Suma</string>
+    <string name="RBResta"> Resta </string>
+    <string name="RBMultiplicacion" >Multiplicacion </string>
+    <string name="RBDivision" > Division </string>
+</resources>
+
