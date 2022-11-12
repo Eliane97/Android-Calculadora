@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText edt1,edt2;
     private RadioButton rdbsuma ,rdbresta, rdbmulti, rdbdivi;
     private TextView result;
-    System.out.println("Hola quease");
+
 
 
     @Override
